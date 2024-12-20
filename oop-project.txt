@@ -1,0 +1,23 @@
+
+design patterns :
+
+
+
+
+factory : ConcreteEvaluationMethodFactory
+
+adabter : GradAdapter
+
+
+Classes to Implement as Singleton
+UserService
+
+ProfessorService
+
+ModuleService
+
+ModuleElementService
+
+EvaluationMethodService
+
+GradeService
